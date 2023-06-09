@@ -195,6 +195,7 @@ function updateCarousel(carouselData, imageId, textId) {
     image.classList.add('fade-out');
     setTimeout(() => {
       image.src = carouselData[currentIndex].src;
+      image.srcset = carouselData[currentIndex].srcset || "";
       image.alt = carouselData[currentIndex].alt;
       image.classList.remove('fade-out');
       image.classList.add('fade-in');

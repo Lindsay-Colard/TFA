@@ -2,11 +2,13 @@
     "fonctsEnvisagees": [
       {
         "src": "assets/images/3d/3d-casual-life-adding-new-user-window.png",
+        "srcset": "assets/images/3d/@2x/3d-casual-life-adding-new-user-window@2x.png 2x",
         "alt": "Illustration 3D d'un affichage de plusieurs profils avec la possibilité d'en créer plus",
         "text": "Gérer les profils pour vous et vos compagnons"
       },
       {
         "src": "assets/images/3d/3d-casual-life-young-woman-in-consultations.png",
+        "srcset": "assets/images/3d/@2x/3d-casual-life-young-woman-in-consultations@2x.png 2x",
         "alt": "Illustration 3D d'une femme penchée sur sa tablette avec une conseillère à ses côtés",
         "text": "Découvrir nos conseils pour une promenade réussie"
       }
@@ -14,31 +16,37 @@
     "fonctsRetenues": [
       {
         "src": "assets/images/3d/3d-casual-life-young-man-holding-paper-map.png",
+        "srcset": "assets/images/3d/@2x/3d-casual-life-young-man-holding-paper-map@2x.png 2x",
         "alt": "Illustration 3D d'un jeune homme debout tenant une carte dans ses mains",
         "text": "Tracer vos pas ainsi que ceux de votre chien"
       },
       {
         "src": "assets/images/3d/casual-life-3d-rain-cloud-1.png",
+        "srcset": "assets/images/3d/@2x/casual-life-3d-rain-cloud-1@2x.png 2x",
         "alt": "Illustration 3D d'un nuage pluvieux",
         "text": "Planifier votre promenade en fonction de la météo"
       },
       {
         "src": "assets/images/3d/casual-life-3d-girl-meditating.png",
+        "srcset": "assets/images/3d/@2x/casual-life-3d-girl-meditating@2x.png 2x",
         "alt": "Illustration 3D d'une femme qui médite",
         "text": "Trouver la promenade adaptée à votre état d’esprit"
       },
       {
         "src": "assets/images/3d/3d-casual-life-map.png",
+        "srcset": "assets/images/3d/@2x/3d-casual-life-map@2x.png 2x",
         "alt": "Illustration 3D d'une carte",
         "text": "Explorer de nouveaux itinéraires grâce à notre carte interactive adaptée en fonction de vos besoins"
       },
       {
         "src": "assets/images/3d/casual-life-3d-alarm-sign.png",
+        "srcset": "assets/images/3d/@2x/casual-life-3d-alarm-sign@2x.png 2x",
         "alt": "Illustration 3D d'un panneau attention",
         "text": "Garder votre chien en sécurité, même en balade"
       },
       {
         "src": "assets/images/3d/3d-casual-life-like.png",
+        "srcset": "assets/images/3d/@2x/3d-casual-life-like@2x.png 2x",
         "alt": "Illustration 3D d'une notification coeur",
         "text": "Enregistrer vos parcours préférés"
       }
